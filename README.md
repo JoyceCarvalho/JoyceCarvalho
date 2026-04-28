@@ -4,9 +4,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoyceCarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyceCarvalho&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<p align="center">
-  <img alt="Joyce-Php"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> <img alt="Joyce-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img alt="Joyce-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img alt="Joyce-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> <img alt="Joyce-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="Joyce-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="Joyce-Symfony" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" /> <img alt="Joyce-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" /> <img alt="Joyce-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /> <img alt="Joyce-Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" /> <img alt="Joyce-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" /> <img alt="Joyce-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-</p>
+<table align="center">
+  <tr>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></td>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></td>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/></td>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></td>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></td>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></td>
+  </tr>
+  <tr>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg"/></td>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"/></td>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></td>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/></td>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/></td>
+    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></td>
+  </tr>
+</table>
   
   ##
  
